@@ -4,8 +4,16 @@ Guide 02
 
 ## Veriifche Elettrico guida:
 
+**Il quadro normativo e le linee guida** riguardanti gli impianti elettrici utilizzate per la redazione della seguente guida sono:
+-	Decreto del ministero dello sviluppo economico 22 gennaio 2008, n. 37: Regolamento concernente l'attuazione dell'articolo 11-quaterdecies, comma 13, lettera a) della legge n. 248 del 2005, recante riordino delle disposizioni in materia di attività di installazione degli impianti all'interno degli edifici
+-	Norma CEI 64/8 -Impianti elettrici utilizzatori a tensione nominale non superiore a 1000 V in corrente alternata e a 1500 V in corrente continua”.
+-	Guide CEI 64-12, 64-14, 64-17, 64-50, 64-51, 64-52, 64-53, 64-54, 64-55, 64-56, 64-57 - per gli impianti elettrici a destinazione principalmente residenziale e terziaria
+- Guide CEI 1-35, 31-35/A, 31-56 per i luoghi con pericolo di esplosione
+ 
+
+
 n.	Cod	Impianto	Categoria	Azione di controllo	Giudizio
-### A
+### A Generali
 
 1	A	ELET	Generali	Iscrizione all’albo dei progettisti
 
@@ -49,7 +57,7 @@ n.	Cod	Impianto	Categoria	Azione di controllo	Giudizio
 
 21	A	ELET	Generali	Presenza supporti strutturali per le attrezzature elettriche
 
-## B
+## B progettazione
 
 1	B	ELET	Progettazione 	Coerenza tra il progetto elettrico con il progetto architettonico e meccanico
 
@@ -103,7 +111,7 @@ n.	Cod	Impianto	Categoria	Azione di controllo	Giudizio
 
 26	B	ELET	Progettazione 	L’impianto di messa a terra è composto da dispersori ,conduttore di terra e protezione, conduttori equipotenziali e collettore di terra
 
-## C
+## C Materiali
 
 1	C	ELET	Materiali 	Lampade coordinate con gli standard del committente
 
@@ -121,7 +129,7 @@ n.	Cod	Impianto	Categoria	Azione di controllo	Giudizio
 
 8	C	ELET	Materiali 	Tutti i materiali e gli apparecchi utilizzati rispondono alle norme CEI ed alle tabelle di unificazione CEI-UNEL e sono contrassegnati dal marchio IMQ
 
-## D
+## D Sicurezza
 
 1	D	ELET	Sicurezza 	Controllo valutazione del rischio di fulminazione dell’edificio rispetto alla norma CEI EN 62305-2.
 
